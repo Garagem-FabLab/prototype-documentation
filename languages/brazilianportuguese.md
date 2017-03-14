@@ -10,7 +10,7 @@ category: language
 <div id="content" markdown="1">
 ##0. O que é esse documento
 
-![primo play set]({{ site.baseurl }}images/photo/maker-guide.jpg)
+![primo play set]({{ baseurl }}images/photo/maker-guide.jpg)
 Este documento reúne todas as informações necessárias para construir um protótipo do Primo.
 Você pode achar mais informações sobre o projeto no site [primo.io](http://primo.io).
 
