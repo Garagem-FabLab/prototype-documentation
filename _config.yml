@@ -1,4 +1,4 @@
 name: Primo DIY Documentation
 pygments: true
 markdown: kramdown
-baseurl: https://github.com/Garagem-FabLab/prototype-documentation.git
+baseurl: http:/docs.primo.io
